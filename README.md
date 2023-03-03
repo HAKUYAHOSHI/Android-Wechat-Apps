@@ -1,3 +1,3 @@
 # R-androidandwxapps
-Repository for my android and wx-apps
+Repository for my android and wechat apps
 # wait for editing……
